@@ -5,8 +5,6 @@ title: "Launching the DPSN online seminar series"
 disable_share: true
 ---
 
-We are launching the DPSN online seminar series - and you can now register for the first two!
-
 This fall we kick start our brand new online seminar series with two exciting seminars:
 
 ![Online seminar series 2022 10 19](https://user-images.githubusercontent.com/85340119/197510578-24dc4760-a697-41ee-ab03-21c3211bbbbb.png)
