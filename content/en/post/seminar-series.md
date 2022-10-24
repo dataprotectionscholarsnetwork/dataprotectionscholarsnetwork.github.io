@@ -1,11 +1,11 @@
 ---
-date: 2022-08-24
+date: 2022-10-24
 description: "We hope to see you there!"
 title: "Launching the DPSN online seminar series"
 disable_share: true
 ---
 
-# We are launching the DPSN online seminar series - Register for the first two! #
+We are launching the DPSN online seminar series - and you can now register for the first two!
 
 This fall we kick start our brand new online seminar series with two exciting seminars:
 
@@ -30,5 +30,5 @@ If you would like to join, please sign up for the seminar [here](https://tilburg
 
 ## Interested in giving an online seminar yourself? Get in touch! ##
 
-we are accepting applications from speakers on an ongoing basis on a variety of topics and issues, substantive or methodological. If you are interested in giving an online seminar (exact format to be determined in conjunction with speaker(s)), please send your name, affiliation, the title of the seminar, and a short abstract (5-6 sentences at most) to dpsn@posteo.eu     
+We are accepting applications from speakers on an ongoing basis on a variety of topics and issues, substantive or methodological. If you are interested in giving an online seminar (exact format to be determined in conjunction with speaker(s)), please send your name, affiliation, the title of the seminar, and a short abstract (5-6 sentences at most) to dpsn@posteo.eu     
 
