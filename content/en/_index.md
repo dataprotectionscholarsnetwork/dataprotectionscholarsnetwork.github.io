@@ -16,5 +16,5 @@ advancing the **bridges** between data protection scholarship of all continents;
 
 **promoting** the study of data protection law in Europe and beyond.   
 
-Keep in touch by [signing up via email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe). Contact us at [dpsn@posteo.eu](mailto:dpsn@posteo.eu).
+Sign-up to our newsletter by sending us [a subscription email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe&body=subscribe). Contact us at [dpsn@posteo.eu](mailto:dpsn@posteo.eu).
 
