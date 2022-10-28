@@ -7,4 +7,5 @@ menu: main
 
 ---
 
-Keep in touch by [signing up via email](mailto:data-protection-scholars-join@lists.uvt.nl). Contact us at [dpsn@posteo.eu](mailto:dpsn@posteo.eu).
+Sign-up to our newsletter by sending us [a subscription email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe&body=subscribe). Contact us at [dpsn@posteo.eu](mailto:dpsn@posteo.eu).
+
