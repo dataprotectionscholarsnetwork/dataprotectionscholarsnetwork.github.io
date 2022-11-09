@@ -24,3 +24,6 @@ The Management Committee coordinating the Network is composed of:
 - [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Katherine Nolan](https://www.lse.ac.uk/law/people/phd/katherine-nolan), PhD Candidate, London School of Economics
 - [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Research Associate, FIZ Karlsruhe
+- [Rocco Saverino](https://lsts.research.vub.be/en/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
+- [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
+-  
