@@ -7,7 +7,7 @@ disable_share: true
 
 Would you like to argue about your research? Do it together with the DPSN community!
 
-[Call for Partecipants: International Researchers Online Meet-up](![DP Day 2023 event 42178](https://user-images.githubusercontent.com/116156905/200795314-cec98b0f-ffa5-4d98-ab2e-bc73015df485.png)
+(![DP Day 2023 event 42178](https://user-images.githubusercontent.com/116156905/200795314-cec98b0f-ffa5-4d98-ab2e-bc73015df485.png)
 
 
 ## Call for partecipants: the second DPSN International Data Protection Day work-in-progress event will take place on Friday 27th January 2023 online ##
