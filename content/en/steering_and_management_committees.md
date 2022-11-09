@@ -26,4 +26,3 @@ The Management Committee coordinating the Network is composed of:
 - [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Research Associate, FIZ Karlsruhe
 - [Rocco Saverino](https://lsts.research.vub.be/en/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
 - [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
--  
