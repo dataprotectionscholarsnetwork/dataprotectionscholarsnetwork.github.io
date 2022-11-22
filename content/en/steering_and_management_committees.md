@@ -29,5 +29,5 @@ The Management Committee coordinating the Network is composed of:
 
 Former Members of the Steering and the Management Committees:
 
-- [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel (Management Committee, on leave)
+- [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel (Management Committee, on leave), 2021-2022
 
