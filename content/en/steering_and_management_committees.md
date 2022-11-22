@@ -20,10 +20,14 @@ The daily management of the Data Protection Law Scholars Network is currently le
 The Management Committee coordinating the Network is composed of:
 
 - [Ana-Maria Hriscu](https://www.tilburguniversity.edu/staff/a-m-hriscu), PhD Researcher, Tilburg University 
-- [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel
 - [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Katherine Nolan](https://www.lse.ac.uk/law/people/phd/katherine-nolan), PhD Candidate, London School of Economics
 - [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Research Associate, FIZ Karlsruhe
 - [Rocco Saverino](https://lsts.research.vub.be/en/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
 - [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
 - [Taner Kuru](https://www.tilburguniversity.edu/staff/t-kuru), PhD Researcher, Tilburg University
+
+Former Members of the Steering and the Management Committees:
+
+- [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel (Management Committee, on leave)
+
