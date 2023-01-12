@@ -84,4 +84,8 @@ Yong Yong Hu (Radboud University)
 Yuxi Jin (Goethe University Frankfurt)  
  
 *This list is subject to changes and will be updated if and when changes occur.  
+
+## Questions? ##
+
+If you have any questions or experience problems with your registration, contact us at dpsn@posteo.eu .
  
