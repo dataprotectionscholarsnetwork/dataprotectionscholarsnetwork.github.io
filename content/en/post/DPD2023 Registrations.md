@@ -13,7 +13,7 @@ disable_share: true
 ## Format/What to expect ## 
 
 Speakers were selected through a call for abstracts for very short presentations that the Network launched back in 2022. As we wanted to give a forum to all relevant applicants to present, we decided to make the event an hour longer.  
-Data protection law scholars of all levels of seniority will present in 3 slides and 5 minutes their current work. The programme encompasses 2 sessions which consist of two parallel streams each with an equal number of speakers. The 3rd and final session takes place in plenary. The streams are loosely thematically organised while still covering a diverse and innovative range of topics in data protection law. The programme has a further element of surprise, meaning that we will not announce the names of the speakers per session, but **attendees will be allocated randomly either to Parallel Stream 1 or to Parallel Stream 2.** Throughout the event, participants will be actively encouraged to and engage with each other's work and network.  
+Data protection law scholars of all levels of seniority will present in 3 slides and 5 minutes their current work. The programme encompasses 2 sessions which consist of two parallel streams each with an equal number of speakers. The 3rd and final session takes place in plenary. The streams are loosely thematically organised while still covering a diverse and innovative range of topics in data protection law. The programme has a further element of surprise, meaning that we will not announce the names of the speakers per session, but **attendees will be allocated randomly either to Parallel Stream 1 or to Parallel Stream 2.** Throughout the event, participants will be actively encouraged to engage with each other's work and network.  
 
 ## How can I register/attend the event? ##
 The event is free to attend, but **registration is required**. You can register [here]( https://tilburguniversity.zoom.us/meeting/register/tJcufuugqTguGtWRddLzTCUx06mNBtr-jb6v  ).
@@ -29,14 +29,14 @@ After registration, you will receive:
 
 15:00-15:05 Welcome 
 
-### 1st session 15:05-16:00 ###
+### 1st Session 15:05-16:00 ###
 
 * Parallel Stream 1  
 * Parallel Stream 2  
 
 *16:00-16:05 Break* 
 
-### 2nd session 16:05-17:00 ###
+### 2nd Session 16:05-17:00 ###
 
 * Parallel Stream 1 
 * Parallel Stream 2  
