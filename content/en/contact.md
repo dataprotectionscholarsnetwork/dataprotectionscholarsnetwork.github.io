@@ -7,5 +7,6 @@ menu: main
 
 ---
 
-Sign-up to our newsletter by sending us [a subscription email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe&body=subscribe). If you do not receive back an email with instructions for the confirmation of your subscription within few minutes, please check your spam folder. For information, contact us at [dpsn@posteo.eu](mailto:dpsn@posteo.eu).
+Sign-up to our newsletter by sending us [a subscription email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe&body=subscribe). If you do not receive back an email with instructions for the confirmation of your subscription within few minutes, please check your spam folder. For information, contact us at [dpsn@posteo.eu](mailto:dpsn@posteo.eu).  
+If you wish to unsubscribe from our mailing list, simply send [an unsubscritption email](mailto:data-protection-scholars-unsubscribe@lists.uvt.nl?subject=unsubscribe&body=unsubscribe).
 
