@@ -48,7 +48,7 @@ After registration, you will receive:
 * Stream 3 in plenary 
 * Closing remarks  
  
-## Preliminary list of speakers (alphabetical order)* ##
+## List of speakers (alphabetical order)* ##
 Aida Ponce Del Castillo (European Trade Union Institute)   
 Andrés Chomczyk Penedo (VUB LSTS)  
 Arianna Rossi (University of Luxembourg)   
@@ -67,14 +67,12 @@ Kartik Chawla (Tilburg University)
 Konrad Kollnig (University of Oxford)   
 Kuan-Wei Chen (Ludwig-Maximilians-Universität München)  
 Lennart Kraft (Goethe University Frankfurt)   
-Lina Jasmontaite (VUB LSTS)   
-Magdalena Rząca (INP PAN)  
+Lina Jasmontaite (VUB LSTS)     
 Marc Rotenberg (Georgetown Law Center for AI and Digital Policy)   
 Maria Grazia Porcedda (Trinity College Dublin)  
 Mateusz Kupiec (Polish Academy of Sciences)   
 Mattis van’t Schip (Radboud University)  
-Michiel Fierens (KU Leuven CiTiP)   
-Olumide Babalola (University of Portsmouth)  
+Michiel Fierens (KU Leuven CiTiP)     
 Pablo Trigo Kramcsák (VUB LSTS)   
 Rossana Ducato (Aberdeen University)  
 Sanna Toropainen (University of Helsinki)  
@@ -84,8 +82,9 @@ Wenkai Li (VUB HALL LSTS)
 Xiaowei Yu (University of Hong Kong)  
 Yong Yong Hu (Radboud University)  
 Yuxi Jin (Goethe University Frankfurt)  
+Zeng Chen (China's University of Political Science and Law)
  
-*This list is subject to changes and will be updated if and when changes occur.  
+
 
 ## Questions? ##
 
