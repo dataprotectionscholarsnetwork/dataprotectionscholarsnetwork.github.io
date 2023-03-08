@@ -1,7 +1,7 @@
 ---
 date: 2023-01-12
-description: "Register now!"
-title: "Register now for the DPSN International Data Protection Day work-in-progress event on Friday 27th January 2023 online"
+description: "DPD 2023"
+title: "DPSN International Data Protection Day work-in-progress event on Friday 27th January 2023 online"
 disable_share: true
 ---
 
@@ -31,7 +31,7 @@ After registration, you will receive:
 
 ### 1st Session 15:05-16:00 ###
 
-* Parallel Stream 1  
+* Parallel Stream 1 
 * Parallel Stream 2  
 
 *16:00-16:05 Break* 
@@ -85,6 +85,12 @@ Yuxi Jin (Goethe University Frankfurt)
 Zeng Chen (China's University of Political Science and Law)
  
 
+## Slides ##
+[Slides Stream 1 DPSN DPD2023.pdf](https://github.com/dataprotectionscholarsnetwork/dataprotectionscholarsnetwork.github.io/files/10921485/Slides.Stream.1.DPSN.DPD2023.pdf)
+
+[Slides Stream 2 DPSN DPD2023.pdf](https://github.com/dataprotectionscholarsnetwork/dataprotectionscholarsnetwork.github.io/files/10921486/Slides.Stream.2.DPSN.DPD2023.pdf)
+
+*There are not all the slides of the speakers, but only the ones of who have consented to share their slides on our website.
 
 ## Questions? ##
 
