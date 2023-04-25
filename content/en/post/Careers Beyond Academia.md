@@ -1,5 +1,5 @@
 ---
-date: 2023-04-25
+date: 2023-04-24
 title: "A Conversation on the Careers Beyond Academia"
 disable_share: true
 ---
