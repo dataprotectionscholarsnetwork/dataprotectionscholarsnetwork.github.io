@@ -37,4 +37,3 @@ The event will run from 17:00-18:30 pm (CEST) on the 9th of May 2023, with the l
 If you have any questions or experience problems with your registration, contact us at dpsn@posteo.eu
 
 
-
