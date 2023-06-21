@@ -19,3 +19,5 @@ Dr. Christopher Kuner has been active in EU and global data protection law since
 ## Questions? ##
 
 If you have any questions or experience problems with your registration, contact us at dpsn@posteo.eu
+
+
