@@ -1,7 +1,7 @@
 ---
 date: 2023-06-29
-title: "Online lecture by Prof. Christopher Kuner: Publishing in an international law journal: the editor’s perspective"
 description: we hope to see you there!
+title: "Online lecture by Prof. Christopher Kuner: Publishing in an international law journal: the editor’s perspective"
 disable_share: true
 ---
 
