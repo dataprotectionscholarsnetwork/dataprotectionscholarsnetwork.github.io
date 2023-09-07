@@ -5,7 +5,6 @@ title: "Event: Publishing on Data Protection:
 Monographs and Generalist Journals"
 disable_share: true
 ---
-# Publishing on data protection: Monographs and Generalist Journals #
 ![September 14th Seminar](https://github.com/dataprotectionscholarsnetwork/dataprotectionscholarsnetwork.github.io/assets/85340119/95e342cc-a19a-4683-986f-48ca247a66e1)
 
 Dear DPSN community,
