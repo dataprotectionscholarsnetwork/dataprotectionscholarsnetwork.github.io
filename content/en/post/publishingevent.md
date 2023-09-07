@@ -13,7 +13,7 @@ We hope you had a nice summer break and are very happy to inform you that we wil
  
 On **September 14th from 13:00 to 14:30 CET**, the DPSN is delighted to host an online seminar in which our very own Dr. Orla Lynskey (London School of Economics) and Prof. Lee Andrew Bygrave (University of Oslo) will be talking about publishing on data protection in generalist journals and as monographs. 
  
-If you would like to join us for this seminar, please register for free [here](https://teams.microsoft.com/registration/_oivH5ipW0yTySEKEdmlwg,T21k4fSjvUexX_f01Pceyg,1CPjKNOC9UGNnWuXr8B-Tw,vSujQmslyUiNynko8akc3g,ZGZ-T4StkEiVFygfxuL4vg,Re8zZnZYWEKOISkbniLjtw?mode=read&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2) 
+If you would like to join us for this seminar, please register for free [here](https://teams.microsoft.com/registration/_oivH5ipW0yTySEKEdmlwg,T21k4fSjvUexX_f01Pceyg,1CPjKNOC9UGNnWuXr8B-Tw,vSujQmslyUiNynko8akc3g,ZGZ-T4StkEiVFygfxuL4vg,Re8zZnZYWEKOISkbniLjtw?mode=read&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2). 
 If the link does not work, please try using another browser.
  
 If you have any questions or experience problems with your registration, please don’t hesitate to contact us at dpsn@posteo.eu 
