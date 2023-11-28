@@ -12,7 +12,8 @@ Would you like to share your research with fellow data protection academics worl
 
 Do it together with the DPSN community!
 
- ![image](https://github.com/dataprotectionscholarsnetwork/dataprotectionscholarsnetwork.github.io/assets/116156905/4992cde8-d425-4388-98ae-08021d2d01db)
+![DPSN Annual Event Poster](https://github.com/dataprotectionscholarsnetwork/dataprotectionscholarsnetwork.github.io/assets/116156905/6b6b42a8-bfbf-42a7-bad0-6283abe76dfc)
+
 
 One of our network’s missions is to create a platform for people to get to know each other’s work better. The previous International Researchers Online Meet-up events brought together more than 150 data protection law scholars worldwide. 
 We are once again calling for expressions of interest to do very short presentations of your research – be it your developing PhD, interesting master thesis, upcoming promising paper, or brand-new project. All levels of seniority are welcome, the only requirement being the willingness to engage with others in rigorous yet friendly spirits.
