@@ -19,22 +19,23 @@ We are once again calling for expressions of interest to do very short presentat
 
 The participants will be asked to make a short presentation of a maximum of 5 minutes using no more than 3 slides. A short Q&A session of 5 minutes will follow each presentation. 
 
-To participate in the January 2024 event, please send:
+**To participate in the January 2024 event, please send:**
 
 1.	Your (the presenter’s) name (please provide the name of all authors if you intend to present a co-authored paper or other work),
 2.	Your affiliation (please provide the affiliation information of all authors if you intend to present a co-authored paper or other work), 
 3.	The title of your presentation, 
 4.	A very short abstract (maximum 2 sentences) and 6 keywords (e.g., health data, encryption, international transfers)
 
-to dpsn@posteo.eu before 23:59 CET on December 18th, 2023!
+**to dpsn@posteo.eu before 23:59 CET on December 18th, 2023!**
 
-Please be notified that the applications that fail to include all the required information shall not be considered.
+**Please be notified that the applications that fail to include all the required information shall not be considered.**
 Given the high number of applicants we received in the previous years and the limited number of presentations we can accommodate, we will prioritise applications with an emphasis on diversity (gender, nationality, institutional affiliation, previous presentation, etc.).
 
-The selected presentations will be notified shortly after the closure of the registrations, and the presenters will be asked to provide their 3 slides on January 12th at noon CET at the latest. 
-Due to practical limitations, the presenters who fail to submit their slides by this deadline will be removed from the program despite the confirmation email they receive.
+The selected presentations will be notified shortly after the closure of the registrations, and the presenters will be asked **to provide their 3 slides on January 12th at noon CET at the latest.** 
 
-The registration link will be made available here soon. Stay tuned!
+**Due to practical limitations,the presenters who fail to submit their slides by this deadline will be removed from the program despite the confirmation email they receive.**
+
+**The registration link will be made available here soon. Stay tuned!**
 
 Do you want to receive news and updates and share your information with other data protection law scholars?
 You can always subscribe to the Network’s Mailing List by sending us a subscription email. 
