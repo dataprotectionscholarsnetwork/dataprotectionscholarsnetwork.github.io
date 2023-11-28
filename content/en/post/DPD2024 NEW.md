@@ -40,3 +40,4 @@ The selected presentations will be notified shortly after the closure of the reg
 Do you want to receive news and updates and share your information with other data protection law scholars?
 You can always subscribe to the Network’s Mailing List by sending us a subscription email. 
 Contact us at dpsn@posteo.eu.
+
