@@ -21,9 +21,10 @@ The Management Committee coordinating the Network is composed of:
 
 - [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Stephanie von Maltzan](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-stephanie-von-maltzan), Research Associate, FIZ Karlsruhe
-- [Rocco Saverino](https://lsts.research.vub.be/en/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
+- [Rocco Saverino](https://lsts.research.vub.be/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
 - [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
 - [Taner Kuru](https://www.tilburguniversity.edu/staff/t-kuru), PhD Researcher, Tilburg University
+- [Spyros Syrrakos](https://www.lse.ac.uk/law/people/phd/spyros-syrrakos), PhD Researcher, London School of Economics
 
 Former Members of the Steering and the Management Committees:
 
