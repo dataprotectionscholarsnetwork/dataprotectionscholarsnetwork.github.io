@@ -38,7 +38,7 @@ The selected presentations will be notified shortly after the closure of the reg
 
 ## How can I register/attend the event? ##
 The event is free to attend, but **registration is required**. You can register [here]( https://ucl.zoom.us/meeting/register/tJEtc--qpzsqHdUfqmA-KTPmrbaADCxMkf3e?_x_zm_rtaid=GJ58PigjR8iuglmUX6-MOA.1702381776580.099e1fe90475c75d1e5a0e34ab4e8413&_x_zm_rhtaid=553#/registration ).
-*Registrations are open until 18 January 2023.*
+*Registrations are open until 18 January 2024.*
 
 
 
