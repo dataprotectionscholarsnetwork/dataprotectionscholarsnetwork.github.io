@@ -36,7 +36,15 @@ The selected presentations will be notified shortly after the closure of the reg
 
 **Due to practical limitations,the presenters who fail to submit their slides by this deadline will be removed from the program despite the confirmation email they receive.**
 
-**The registration link will be made available here soon. Stay tuned!**
+## How can I register/attend the event? ##
+The event is free to attend, but **registration is required**. You can register [here]( https://ucl.zoom.us/meeting/register/tJEtc--qpzsqHdUfqmA-KTPmrbaADCxMkf3e?_x_zm_rtaid=GJ58PigjR8iuglmUX6-MOA.1702381776580.099e1fe90475c75d1e5a0e34ab4e8413&_x_zm_rhtaid=553#/registration ).
+*Registrations are open until 18 January 2023.*
+
+
+
+
+
+## ## 
 
 Do you want to receive news and updates and share your information with other data protection law scholars?
 You can always subscribe to the Network’s Mailing List by sending us a subscription email. 
