@@ -27,7 +27,10 @@ The participants will be asked to make a short presentation of a maximum of 5 mi
 3.	The title of your presentation, 
 4.	A very short abstract (maximum 2 sentences) and 6 keywords (e.g., health data, encryption, international transfers)
 
-**to dpsn@posteo.eu before 23:59 CET on December 18th, 2023!**
+**to dpsn@posteo.eu before 23:59 CET on December 18th, 2023!***
+
+**If you did not send your application before the deadline but are still interested, try to send it after the date and you will be added to the waiting list.*
+
 
 **Please be notified that the applications that fail to include all the required information shall not be considered.**
 Given the high number of applicants we received in the previous years and the limited number of presentations we can accommodate, we will prioritise applications with an emphasis on diversity (gender, nationality, institutional affiliation, previous presentation, etc.).
