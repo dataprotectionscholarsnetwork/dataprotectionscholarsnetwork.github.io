@@ -1,7 +1,7 @@
 ---
 date: 2024-01-09
 description: "DPD 2024"
-title: "DPSN International Data Protection Day work-in-progress event on Friday 19 January 2024 online"
+title: "DPSN International Data Protection Day work-in-progress event on Friday 19 January 2024 online (Programme)"
 disable_share: true
 ---
 
