@@ -45,7 +45,11 @@ The event is free to attend, but **registration is required**. You can register 
 
 
 
+## SLIDES ##
 
+[DPSN Data Protection Day Event slides.pptx](https://github.com/dataprotectionscholarsnetwork/dataprotectionscholarsnetwork.github.io/files/13992878/DPSN.Data.Protection.Day.Event.slides.pptx)
+
+*There are only some of the slides of the event, just those of the speakers who have consented to share their slides on our website.
 
 ## ## 
 
