@@ -19,11 +19,11 @@ The event is free to attend, but **registration is required**. You can register 
 
 ## Programme ##
 
-14:50-15:00 Arrival of online participants
+14:50-15:00 Arrival of the online participants
 
-15:00-15:05 Welcome
+15:00-15:05 Welcoming remarks by Kristina Irion (Universiteit van Amsterdam)
 
-### 1st Session 15:05-16:05 ###
+### 1st Session 15:05-16:05 Moderated by Katherine Nolan (Ulster University) ###
 
 15:05 – 15:14 - Dominika Kuźnicka-Błaszkowska, University of Wroclaw, Is EU too harsh on US when it comes to personal data protection? The problem with double-standards towards adequacy of personal data protection model
 
@@ -40,7 +40,7 @@ The event is free to attend, but **registration is required**. You can register 
 15:59 - 16:05 Break
 
 
-### 2nd Session 16:05-17:05 ###
+### 2nd Session 16:05-17:05 Moderated by Marco Bassini (Tilburg University) ###
 
 16:05-16:14 - Romain Lanneau, Statewatch, Data Protection handbook in national security immigration cases
  
@@ -53,10 +53,11 @@ The event is free to attend, but **registration is required**. You can register 
 16:41-16:50 - Marietjie Botes, University of KwaZulu Natal, Challenges to protecting neuro data in the context of brain-computer interfaces
  
 16:50-16:59 - Oskar J. Gstrein, University of Groningen, Data Autonomy: A novel approach to the ‘why privacy’ question
-16:59-17:05 Break
+
+16:59-17:05 Break 
 
 
-### 3rd Session 17:05-17:59 ###
+### 3rd Session 17:05-17:59 Moderated by Mark R. Leiser (Vrije Universiteit Amsterdam) ###
 
 17:05-17:14 - Barbara Lazarotto, Vrije Universiteit Brussel, Situating business-to-government data sharing dilemmas: Privacy, Power, and Profit.
 
@@ -68,7 +69,7 @@ The event is free to attend, but **registration is required**. You can register 
 
 17:41-17:50 - Angela Daly, University of Dundee, Open access social science research repositories, data protection and the future reuse and sharing of research datasets in post-Brexit UK
 
-17:50 – 17:59 Closing Remarks
+### 17:50 – 17:59 Closing remarks by Gloria Gonzalez Fuster (Vrije Universiteit Brussel) ### 
 
 
 ## Questions? ##
