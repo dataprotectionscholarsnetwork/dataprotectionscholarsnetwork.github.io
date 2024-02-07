@@ -7,6 +7,7 @@ menu: main
 
 ---
 
-Sign-up to our newsletter by sending us [a subscription email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe&body=subscribe). If you do not receive back an email with instructions for the confirmation of your subscription within few minutes, please check your spam folder. For information, contact us at [dpscholars@protonmail.com](mailto:dpscholars@protonmail.com).  
-If you wish to unsubscribe from our mailing list, simply send [an unsubscritption email](mailto:data-protection-scholars-unsubscribe@lists.uvt.nl?subject=unsubscribe&body=unsubscribe).
+Sign-up to our newsletter [here](https://dpsn-newsletter.beehiiv.com/subscribe). 
+For more information or if you wish to unsubscribe from our mailing list, contact us at [dpscholars@protonmail.com](mailto:dpscholars@protonmail.com).  
+
 
