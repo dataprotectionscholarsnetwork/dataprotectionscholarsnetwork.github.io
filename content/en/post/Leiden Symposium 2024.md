@@ -34,7 +34,7 @@ Please be notified that the applications that fail to include all the required i
 Given the high number of applicants we received in the previous years and the limited number of presentations we can accommodate, we will prioritise applications with an emphasis on diversity (gender, nationality, institutional affiliation, previous presentation, etc.).
 
 
-The selected presentations will be notified shortly after the closure of the registrations, and the presenters will be asked to provide their 3 slides on Monday, 3 June 2024. “
+The selected presentations will be notified shortly after the closure of the registrations, and the presenters will be asked to provide their 3 slides on Monday, 3 June 2024.
 
 **Please note that this call is only for those who registered or will be attending the Leiden symposium in person. DPSN is not involved with general registrations for the symposium and does not offer any waiver for the conference fee. 
 Kindly keep this in mind if you decide to submit your application to us.**
