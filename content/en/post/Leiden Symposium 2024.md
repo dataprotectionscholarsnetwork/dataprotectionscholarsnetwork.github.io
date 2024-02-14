@@ -23,7 +23,7 @@ Participants will be requested to deliver a concise presentation lasting up to 4
 While a formal Q&A session will not be conducted, we encourage the audience to pose their queries directly to the speakers during the informal drinks.
 
 
-**To participate in the workshop  please send:**
+**To participate in the workshop,  please send by Wednesday, 15 May 2024:**
 1.	Your (the presenter’s) name (please provide the name of all authors if you intend to present a co-authored paper or other work),
 2.	Your affiliation (please provide the affiliation information of all authors if you intend to present a co-authored paper or other work),
 3.	The title of your presentation,
