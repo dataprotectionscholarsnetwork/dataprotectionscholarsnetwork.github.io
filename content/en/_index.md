@@ -16,5 +16,5 @@ advancing the **bridges** between data protection scholarship of all continents;
 
 **promoting** the study of data protection law in Europe and beyond.   
 
-Sign-up to our newsletter [here](https://dpsn-newsletter.beehiiv.com/subscribe) Contact us at [dpscholars@protonmail.com](mailto:dpscholars@protonmail.com).
+Contact us at [dpscholars@protonmail.com](mailto:dpscholars@protonmail.com).
 
