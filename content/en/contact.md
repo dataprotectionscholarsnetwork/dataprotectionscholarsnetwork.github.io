@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-Sign-up to our newsletter [here](https://dpsn-newsletter.beehiiv.com/subscribe). 
+ 
 For more information or if you wish to unsubscribe from our mailing list, contact us at [dpscholars@protonmail.com](mailto:dpscholars@protonmail.com).  
 
 
