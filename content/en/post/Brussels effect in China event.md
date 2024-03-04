@@ -19,16 +19,23 @@ This panel aims to provide insights into these complex questions through the dia
 This seminar will last around 2 hours, featuring presentations of 4 speakers, follow-up discussion, and Q&A with the audience (30min). 
 
 **Seminar organisers in support with DPSN:** 
+
 Wenkai Li, Vrije Universiteit Brussel 
+
 Cong Yao, Vrije Universiteit Brussel 
 
 **Moderator:** 
+
 Wenlong Li, Research Affiliate, the University of Edinburgh
 
-**Confirmed Speakers:** 
+**Confirmed Speakers:**
+
 Rogier Creemers, Assistant Professor, Leiden University 
+
 Xixue Shang, Associate Professor, China University of Political Science and Law 
+
 Hunter Dorwart, Associate, Privacy and Data Protection, Bird & Bird
+
 Ruoxin Su, PhD researcher, VUB, former lawyer in data compliance, Junhe Law Firm Beijing
 
 ## Questions? ##
