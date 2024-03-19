@@ -26,7 +26,9 @@ or the [press release](https://curia.europa.eu/jcms/upload/docs/application/pdf/
 
 ## SAVE THE DATE: ##
 30th April 2024, 1.30-2.30 pm CET (Endemol Shine (Case C‑740/22))
+
 28th May 2024, 1.30-2.30 pm CET
+
 25th June 2024, 1.30-2.30 pm CET
 
 Interested in talking about a specific case? You can write to us directly to suggest a judgment to discuss & volunteer as a presenter!
