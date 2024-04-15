@@ -27,7 +27,7 @@ We are meeting on Tuesday, 30th April, at 1.30 pm CET via Teams.
 
 Everyone is welcome to join and contribute their insights!
 
-Please register [here](https://events.teams.microsoft.com/event/91b740b4-d495-46fa-98d9-e511525e1599@d3f434ee-643c-409f-94aa-6db2f23545ce)
+Please register [here](https://events.teams.microsoft.com/event/1efdd16a-811a-418c-ba21-9b018d842ec8@d3f434ee-643c-409f-94aa-6db2f23545ce)
 
 Before the event, look at the judgment in [C-740/22](https://curia.europa.eu/juris/document/document.jsf?text=&docid=283530&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=2248261).
 You can also read Susanna's [op-ed](https://eulawlive.com/op-ed-the-principle-of-openness-gives-way-to-data-protection-judgment-in-case-c-740-22-endemol-shine-by-susanna-lindroos-hovinheimo/) for the EU Law Live.
