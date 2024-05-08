@@ -1,5 +1,5 @@
 ---
-date: 2024-05-07
+date: 2024-08-05
 description: "DPSN at CDPD 2024"
 title: "DPSN at CPDP 2024"
 disable_share: true
