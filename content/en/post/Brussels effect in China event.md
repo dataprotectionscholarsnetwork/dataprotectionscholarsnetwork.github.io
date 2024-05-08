@@ -43,4 +43,3 @@ Ruoxin Su, PhD researcher, VUB, former lawyer in data compliance, Junhe Law Firm
 
 If you have any questions or experience problems with your registration, contact us at dpscholars@protonmail.com
 
-
