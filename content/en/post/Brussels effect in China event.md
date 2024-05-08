@@ -18,6 +18,7 @@ This panel aims to provide insights into these complex questions through the dia
 
 This seminar will last around 2 hours, featuring presentations of 4 speakers, follow-up discussion, and Q&A with the audience (30min). 
 
+
 **Seminar organisers in support with DPSN:** 
 
 Wenkai Li, Vrije Universiteit Brussel 
