@@ -1,7 +1,7 @@
 title = "Data Protection Scholars Network"
 baseURL = "https://dataprotectionscholars.network"
 languageCode = "en-us"
-theme = "ananke2"
+theme = "ananke"
 themesDir = "themes"
 resourceDir = "../resources"
 copyright = "the authors"
