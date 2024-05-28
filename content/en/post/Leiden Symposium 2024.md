@@ -23,7 +23,7 @@ Participants will be requested to deliver a concise presentation lasting up to 4
 While a formal Q&A session will not be conducted, we encourage the audience to pose their queries directly to the speakers during the informal drinks.
 
 
-**To participate in the workshop,  please send by Wednesday, 15 May 2024:**
+**To participate in the workshop,  please send by June 5th:**
 1.	Your (the presenter’s) name (please provide the name of all authors if you intend to present a co-authored paper or other work),
 2.	Your affiliation (please provide the affiliation information of all authors if you intend to present a co-authored paper or other work),
 3.	The title of your presentation,
@@ -34,7 +34,7 @@ Please be notified that the applications that fail to include all the required i
 Given the high number of applicants we received in the previous years and the limited number of presentations we can accommodate, we will prioritise applications with an emphasis on diversity (gender, nationality, institutional affiliation, previous presentation, etc.).
 
 
-The selected presentations will be notified shortly after the closure of the registrations, and the presenters will be asked to provide their 3 slides on Monday, 3 June 2024.
+**The selected presentations will be notified on June 7th, and the presenters will be asked to provide their three slides on June 18th at the latest.**
 
 **Please note that this call is only for those who registered or will be attending the Leiden symposium in person. DPSN is not involved with general registrations for the symposium and does not offer any waiver for the conference fee. 
 Kindly keep this in mind if you decide to submit your application to us.**
