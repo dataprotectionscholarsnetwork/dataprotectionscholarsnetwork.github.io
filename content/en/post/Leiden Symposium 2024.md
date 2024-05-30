@@ -1,5 +1,5 @@
 ---
-date: 2024-02-13
+date: 2024-05-30
 description: "We hope to see you there!"
 title: "Call for participants at Leiden eLaw Conference on 21 June 2024!"
 disable_share: true
