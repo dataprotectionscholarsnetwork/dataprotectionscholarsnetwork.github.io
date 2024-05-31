@@ -10,7 +10,7 @@ with an innovative and engaging event format: the Ultimate Data Protection CPDP 
 This quiz drew in over 80 participants, leading them on an immersive journey through the world of data protection, 
 featuring a wide array of over 40 data protection-related questions.
 
-The event was designed to mimic a TV show, with Romain Robert (EDPS) serving as the charismatic host and expert quizmasters Jef Ausloos (IViR) 
+The event was designed to mimic a TV show, with Romain Robert (EDPS) serving as the charismatic conductor and expert quizmasters Jef Ausloos (IViR) 
 and Gloria González Fuster (VUB) ensuring that all the rules were meticulously followed. 
 The top six scorers were then invited to engage in a lively battle of GDPR charades, adding an entertaining and competitive element to the event.
 
