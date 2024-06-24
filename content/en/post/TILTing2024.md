@@ -1,7 +1,7 @@
 ---
 date: 2024-06-24
 description: "TILTing 2024"
-title: "Join Us at TILTING PERSPECTIVES 2024 for an Inspiring Networking Expierence"
+title: "Join Us at TILTing Perspectives 2024 for an Inspiring Networking Expierence"
 disable_share: true
 ---
 
@@ -12,12 +12,12 @@ disable_share: true
 ![Tilting_flyer](https://github.com/dataprotectionscholarsnetwork/dataprotectionscholarsnetwork.github.io/assets/116156905/08e68676-b02c-42b3-afd6-f50c4e661b7b)
 
 
-We are thrilled to announce that DPSN is hosting the INTERACTIVE NETWORKING EVENT - TILTING PERSPECTIVES 2024. 
+We are thrilled to announce that DPSN is hosting the Social Hour Networking Session during TILTing Perspectives 2024. 
 This event is dedicated to fostering connections and sparking discussions among data protection law enthusiasts and professionals!
 
 ## Event Highlights: 
 
-•	**Dates**: Mark your calendars for July 9th, 2024.
+•	**Dates**: Mark your calendars for July 9th, 2024, from 17:30 to 18:30 CEST during the networking.
 
 •	**Networking:** Engage with peers and find research collaborators.
 
@@ -34,7 +34,7 @@ This event is dedicated to fostering connections and sparking discussions among 
 
 **Join the Conversation:** Don’t miss this opportunity to shift your perspective and join a community shaping the future of data protection. 
 
-**More info about the conference [here](https://www.tilburguniversity.edu/about/schools/law/departments/tilt/events/tilting-perspectives/2024)**
+**See the Conference programme [here](https://www.tilburguniversity.edu/about/schools/law/departments/tilt/events/tilting-perspectives/program)**
 
 ## Questions? ##
 
