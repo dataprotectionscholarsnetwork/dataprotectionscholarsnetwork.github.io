@@ -34,6 +34,8 @@ This event is dedicated to fostering connections and sparking discussions among 
 
 **Join the Conversation:** Don’t miss this opportunity to shift your perspective and join a community shaping the future of data protection. 
 
+**More info about the conference [here](https://www.tilburguniversity.edu/about/schools/law/departments/tilt/events/tilting-perspectives/2024)**
+
 ## Questions? ##
 
 If you have any questions or experience problems with your registration, contact us at
