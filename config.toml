@@ -52,4 +52,4 @@ enableRobotsTXT = false
 
       
 [services.disqus]
-  shortname = "YOUR_DISQUS_SHORTNAME"
+  shortname = "DPSN"
