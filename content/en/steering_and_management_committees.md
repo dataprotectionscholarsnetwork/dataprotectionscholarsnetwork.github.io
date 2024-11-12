@@ -15,7 +15,7 @@ The daily management of the Data Protection Law Scholars Network is currently le
 - [Lee A Bygrave](https://www.jus.uio.no/ifp/english/people/aca/lee/), Professor, University of Oslo
 - [Franziska Boehm](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-franziska-boehm), Professor, Leibniz-Institute for Information Infrastructure in Karlsruhe (FIZ) and the Karlsruhe Institute of Technology (KIT)
 - [Orla Lynskey](https://www.lse.ac.uk/law/people/academic-staff/orla-lynskey), Professor of Law and Technology, University College London
-- [Michael Veale](https://michae.lv), Lecturer in Digital Rights and Regulation, University College London
+- [Michael Veale](https://michae.lv), Associate Professor in Digital Rights and Regulation, University College London
 
 The Management Committee coordinating the Network is composed of:
 
