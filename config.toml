@@ -49,3 +49,7 @@ enableRobotsTXT = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+      
+[services.disqus]
+  shortname = "YOUR_DISQUS_SHORTNAME"
