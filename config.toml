@@ -8,6 +8,7 @@ copyright = "the authors"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
+
 [pagination]
 pagerSize = 10
 googleAnalytics = ""
