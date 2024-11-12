@@ -19,16 +19,19 @@ The daily management of the Data Protection Law Scholars Network is currently le
 
 The Management Committee coordinating the Network is composed of:
 
-- [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
-- [Stephanie von Maltzan](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-stephanie-von-maltzan), Research Associate, FIZ Karlsruhe
+
 - [Rocco Saverino](https://lsts.research.vub.be/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
+- [Stephanie von Maltzan](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-stephanie-von-maltzan), Research Associate, FIZ Karlsruhe
 - [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
-- [Taner Kuru](https://www.tilburguniversity.edu/staff/t-kuru), PhD Researcher, Tilburg University
 - [Spyros Syrrakos](https://www.lse.ac.uk/law/people/phd/spyros-syrrakos), PhD Researcher, London School of Economics
+- [Shweta Degalahal](https://research.tilburguniversity.edu/en/persons/shweta-degalahal), PhD Candidate, Tilburg University
+- [Alexandra Karaiskou](https://www.eui.eu/people?id=alexandra-karaiskou) PhD Candidate, European University Institute
 
 Former Members of the Steering and the Management Committees:
 
 - [Olga Gkotsopoulou](https://lsts.research.vub.be/en/olga-gkotsopoulou), PhD Researcher, Vrije Universiteit Brussel (Management Committee, on leave), 2021-2022
 - [Thilo Gottschalk](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-thilo-gottschalk), Research Associate, FIZ Karlsruhe
 - [Katherine Nolan](https://www.lse.ac.uk/law/people/phd/katherine-nolan), PhD Candidate, London School of Economics
-- [Ana-Maria Hriscu](https://www.tilburguniversity.edu/staff/a-m-hriscu), PhD Researcher, Tilburg University 
+- [Ana-Maria Hriscu](https://www.tilburguniversity.edu/staff/a-m-hriscu), PhD Researcher, Tilburg University
+- [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
+- [Taner Kuru](https://www.tilburguniversity.edu/staff/t-kuru), PhD Researcher, Tilburg University
