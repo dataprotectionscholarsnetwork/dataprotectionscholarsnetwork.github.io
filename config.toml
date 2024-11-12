@@ -1,3 +1,8 @@
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 title = "Data Protection Scholars Network"
 baseURL = "https://dataprotectionscholars.network"
 languageCode = "en-us"
@@ -46,11 +51,5 @@ enableRobotsTXT = false
   featured_image = "/images/beep.jpg"
   recent_posts_number = 2
 
-
-  [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-ignoreLogs = ["warning-goldmark-raw-html"]
     
 
