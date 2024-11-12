@@ -46,6 +46,7 @@ enableRobotsTXT = false
   featured_image = "/images/beep.jpg"
   recent_posts_number = 2
 
+
   [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
