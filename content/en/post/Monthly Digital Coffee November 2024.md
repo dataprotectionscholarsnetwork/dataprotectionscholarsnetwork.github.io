@@ -5,7 +5,7 @@ title: "Join DPSN and LSTS for Monthly Digital Coffees: Latest Data Protection J
 disable_share: true
 ---
 
-![Screenshot 2024-11-15 at 14 20 26](https://github.com/user-attachments/assets/ad1958b4-27cb-4fcb-92b8-b9b0f3ad8b1f)
+
 
 If you are interested in staying up-to-date on the latest judgments of the EU Court of Justice, 
 do not miss the monthly digital coffee event co-organised by DPSN and LSTS VUB.
@@ -15,6 +15,8 @@ month. This is an excellent opportunity to stay informed about the latest develo
 
 Whether you are an academic, a legal professional, a data protection officer, or simply interested in this topic, 
 we welcome you to join us for this exciting event.
+
+ ![Screenshot 2024-11-15 at 14 20 26](https://github.com/user-attachments/assets/ad1958b4-27cb-4fcb-92b8-b9b0f3ad8b1f)
 
 **In November, we will discuss the CJEU judgment C-768/21 (Land Hessen), on the obligation of DPAs to exercise corrective powers under Article 58(2)
 GDPR. The CJEU ruled that the GDPR does not impose an obligation on the DPAs to use corrective measure every time a breach of personal data is found.**
