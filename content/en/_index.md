@@ -16,6 +16,6 @@ advancing the **bridges** between data protection scholarship of all continents;
 
 **promoting** the study of data protection law in Europe and beyond.   
 
-Sign-up to our newsletter by sending us [a subscription email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe&body=subscribe). If you do not receive back an email with instructions for the confirmation of your subscription within few minutes, please check your spam folder. For information, contact us at [dpscholars@protonmail.com](mailto:dpscholars@protonmail.com).
+Sign-up to our newsletter by sending us [a subscription email](mailto:data-protection-scholars-join@lists.uvt.nl?subject=subscribe&body=subscribe). If you do not receive back an email with instructions for the confirmation of your subscription within few minutes, please check your spam folder. For information, contact us at [dpscholars@protonmail.com](mailto:dpscholars@protonmail.com). You can also follow us on Bluesky at [@dataprotectionscholars.network](https://bsky.app/profile/dataprotectionscholars.network).
 
 
