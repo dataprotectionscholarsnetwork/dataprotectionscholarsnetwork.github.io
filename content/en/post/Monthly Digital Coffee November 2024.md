@@ -1,7 +1,7 @@
 ---
 date: 2024-11-15
 description: "Monthly Digital Coffees"
-title: "Join DPSN and LSTS for Monthly Digital Coffees: Latest Data Protection Judgments from CJEU on 25 September 2024"
+title: "Join DPSN and LSTS for Monthly Digital Coffees: Latest Data Protection Judgments from CJEU on 27 November 2024"
 disable_share: true
 ---
 
@@ -23,7 +23,7 @@ GDPR. The CJEU ruled that the GDPR does not impose an obligation on the DPAs to 
 
 The case will be introduced by Maria Magierska (Maastricht University)
 
-We are meeting on Monday, November 27th, at 1.30 pm CET via Teams. Please register [here](https://events.teams.microsoft.com/event/10bf500e-a955-4920-b9f9-3c6cf8e57d51@695b7ca8-2da8-4545-a2da-42d03784e585)
+We are meeting on Wednesday, November 27th, at 1.30 pm CET via Teams. Please register [here](https://events.teams.microsoft.com/event/10bf500e-a955-4920-b9f9-3c6cf8e57d51@695b7ca8-2da8-4545-a2da-42d03784e585)
 
 Before the event, look at the judgment [here](https://curia.europa.eu/juris/document/document.jsf?docid=290402&doclang=en)
 
