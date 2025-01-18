@@ -1,5 +1,5 @@
 ---
-date: 2025-01-18
+date: 2025-01-17
 description: "DPD 2025"
 title: "DPSN International Data Protection Day work-in-progress event on Thursday 23 January 2025 online (Programme)"
 disable_share: true
@@ -81,4 +81,5 @@ Moderated by Todd Davies (University College London – UCL Faculty of Laws)
 17:55 – 18:00 Closing remarks by Rocco Saverino, Vrije Universiteit Brussels (VUB)
 
 ## Do you want to receive news and updates and share your own news with other data protection law scholars? ##
-You can always subscribe to our [LinkedIn Group](https://www.linkedin.com/groups/12734731/) . Contact us at dpscholars@protonmail.com.
+You can always subscribe to our [LinkedIn Group](https://www.linkedin.com/groups/12734731/). 
+Contact us at dpscholars@protonmail.com.
