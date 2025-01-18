@@ -5,7 +5,7 @@ title: "DPSN International Data Protection Day work-in-progress event on Thursda
 disable_share: true
 ---
 
-### **On the 23rd of January 2024 the Data Protection Law Scholars Network (DPSN) organises its fourth international meet-up of data protection law researchers. The event will take place online, between 15:00 and 18:00 Brussels time.** ###
+### **On the 23rd of January 2025 the Data Protection Law Scholars Network (DPSN) organises its fourth international meet-up of data protection law researchers. The event will take place online, between 15:00 and 18:00 Brussels time.** ###
 
 ## Format/What to expect ## 
 
