@@ -42,7 +42,7 @@ Moderated by Maria Magierska (Maastricht European Centre on Privacy and Cybersec
 Break 15:53 – 15:58
 
 ### 2nd Session 15:58 – 16:59 ###
-Moderated by Felix Bieker (ULD - Office of the Data Protection Commissioner of Schleswig-Holstein)
+Moderated by Maciej Otmianowski (Vrije Universiteit Brussel)
  
 15:58 – 16:06 Laura Drechsler, Centre for IT and IP Law (CiTiP)/State Archives of Belgium/Open Universiteit, Archiving the European citizen
  
@@ -78,7 +78,7 @@ Moderated by Todd Davies (University College London – UCL Faculty of Laws)
 17:47 – 17:55 Isabela Maria Rosal, Centre of IT & IP Law (CiTiP) KULeuven, How does the right to memory is operationalized under data law?”
 
  
-17:55 – 18:00 Closing remarks by Rocco Saverino, Vrije Universiteit Brussels (VUB)
+17:55 – 18:00 Closing remarks by Rocco Saverino, Vrije Universiteit Brussel (VUB)
 
 ## Do you want to receive news and updates and share your own news with other data protection law scholars? ##
 You can always subscribe to our [LinkedIn Group](https://www.linkedin.com/groups/12734731/). 
