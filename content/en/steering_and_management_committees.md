@@ -24,7 +24,6 @@ The Management Committee coordinating the Network is composed of:
 - [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
 - [Spyros Syrrakos](https://www.lse.ac.uk/law/people/phd/spyros-syrrakos), PhD Researcher, London School of Economics
 - [Shweta Degalahal](https://research.tilburguniversity.edu/en/persons/shweta-degalahal), PhD Candidate, Tilburg University
-- [Pablo Rodrigo Trigo Kramcsák](https://lsts.research.vub.be/pablo-trigo-kramcsak), PhD Researcher, Vrije Universiteit Brussel
 - [Zuzanna Choinska](https://delab.uw.edu.pl/o-nas/zuzanna-choinska/) PhD Researcher, University of Warsaw
 
 Former Members of the Steering and the Management Committees:
