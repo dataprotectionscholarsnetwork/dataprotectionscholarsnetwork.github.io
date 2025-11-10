@@ -1,5 +1,5 @@
 ---
-date: 2025-12-04
+date: 2025-11-10
 description: "We hope to see you there!"
 title: "Online Seminar with Prof. Dr Orla Lynskey and Prof. Dr Lee Andrew Bygrave on Publishing on Data Protection: Monographs and Generalist Journals"
 disable_share: true
