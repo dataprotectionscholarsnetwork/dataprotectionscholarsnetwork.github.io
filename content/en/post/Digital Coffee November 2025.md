@@ -8,7 +8,7 @@ disable_share: true
 
 Join DPSN and LSTS-VUB for our next Digital Coffee, where we’ll take a closer look at the latest CJEU judgments on data protection, and, most importantly, talk about it together.
 
-<img width="1447" height="2048" alt="Digital Coffee November 2025" src="https://github.com/user-attachments/assets/b505d247-9b81-4928-8c99-593d20cece3c" />
+<img width="547" height="1048" alt="Digital Coffee November 2025" src="https://github.com/user-attachments/assets/b505d247-9b81-4928-8c99-593d20cece3c" />
 
 
 These sessions are not lectures but genuine conversations. The idea is simple: we all bring our perspectives, questions, and thoughts to the table. It’s a space to share views, debate interpretations,
