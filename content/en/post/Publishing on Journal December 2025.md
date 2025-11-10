@@ -1,7 +1,7 @@
 ---
 date: 2025-12-04
 description: "We hope to see you there!"
-title: "Online lecture by Prof. Christopher Kuner: Publishing in an international law journal: the editor’s perspective"
+title: "Online Seminar Dr Orla Lynskey and Prof. Lee Andrew Bygrave: Publishing on Data Protection: Monographs and Generalist Journals"
 disable_share: true
 ---
 
