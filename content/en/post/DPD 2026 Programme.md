@@ -11,7 +11,9 @@ disable_share: true
 
 Speakers were selected through a call for abstracts for concise presentations that the Network launched back in 2023.  
 Data protection law scholars of all levels of seniority will present their current work in 3 slides and 5 minutes, followed by 3 minutes of Q&A. The programme encompasses 2 sessions, which consist of two parallel streams. 
-Throughout the event, participants will be actively encouraged to engage with each other's work and network.  See the programme below:
+Throughout the event, participants will be actively encouraged to engage with each other's work and network.  Register [here](https://tilburguniversity.zoom.us/meeting/register/5KbmopttROO4Eq-PaCWC6w#/registration)!
+
+See the programme below:
 
 ![1](https://github.com/user-attachments/assets/9633b778-809f-4b42-abe2-67dbcc0d684f)
 ![2](https://github.com/user-attachments/assets/6a7d70d2-4b95-4276-80eb-9aeac8ce6a61)
