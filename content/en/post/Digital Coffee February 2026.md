@@ -1,5 +1,5 @@
 ---
-date: 2025-01-30
+date: 2026-01-30
 description: "Monthly Digital Coffees"
 title: "Join DPSN and LSTS for Monthly Digital Coffees: Latest Data Protection Judgments from CJEU on 11 February 2026"
 disable_share: true
