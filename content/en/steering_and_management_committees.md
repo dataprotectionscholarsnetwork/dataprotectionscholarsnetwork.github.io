@@ -19,7 +19,7 @@ The daily management of the Data Protection Law Scholars Network is currently le
 
 The Management Committee coordinating the Network is composed of:
 
-- [Rocco Saverino](https://lsts.research.vub.be/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
+
 - [Stephanie von Maltzan](https://fizweb-p.fiz-karlsruhe.de/en/bereiche/lebenslauf-und-publikationen-stephanie-von-maltzan), Research Associate, FIZ Karlsruhe
 - [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
 - [Spyros Syrrakos](https://www.lse.ac.uk/law/people/phd/spyros-syrrakos), PhD Researcher, London School of Economics
@@ -35,3 +35,4 @@ Former Members of the Steering and the Management Committees:
 - [Maria Magierska](https://me.eui.eu/maria-magierska/), PhD Researcher, European University Institute
 - [Taner Kuru](https://www.tilburguniversity.edu/staff/t-kuru), PhD Researcher, Tilburg University
 - [Alexandra Karaiskou](https://www.eui.eu/people?id=alexandra-karaiskou) PhD Candidate, European University Institute
+- [Rocco Saverino](https://lsts.research.vub.be/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
