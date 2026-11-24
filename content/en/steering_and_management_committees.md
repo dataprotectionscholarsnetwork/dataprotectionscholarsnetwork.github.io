@@ -23,7 +23,7 @@ The Management Committee coordinating the Network is composed of:
 - [Stephanie von Maltzan](https://fizweb-p.fiz-karlsruhe.de/en/bereiche/lebenslauf-und-publikationen-stephanie-von-maltzan), Research Associate, FIZ Karlsruhe
 - [Nahide Basri](https://iris.ucl.ac.uk/iris/browse/profile?upi=NBASR47), PhD Candidate, University College London
 - [Spyros Syrrakos](https://www.lse.ac.uk/law/people/phd/spyros-syrrakos), PhD Researcher, London School of Economics
-- [Shweta Degalahal](https://research.tilburguniversity.edu/en/persons/shweta-degalahal), PhD Candidate, Tilburg University
+- [Alicja Joanna Kucharska](https://research.tilburguniversity.edu/en/persons/alicja-joanna-kucharska/), PhD Candidate, Tilburg University
 - [Zuzanna Choinska](https://delab.uw.edu.pl/o-nas/zuzanna-choinska/) PhD Researcher, University of Warsaw
 
 Former Members of the Steering and the Management Committees:
@@ -36,3 +36,4 @@ Former Members of the Steering and the Management Committees:
 - [Taner Kuru](https://www.tilburguniversity.edu/staff/t-kuru), PhD Researcher, Tilburg University
 - [Alexandra Karaiskou](https://www.eui.eu/people?id=alexandra-karaiskou) PhD Candidate, European University Institute
 - [Rocco Saverino](https://lsts.research.vub.be/rocco-saverino), PhD Researcher, Vrije Universiteit Brussel
+- [Shweta Degalahal](https://research.tilburguniversity.edu/en/persons/shweta-degalahal), PhD Candidate, Tilburg University
